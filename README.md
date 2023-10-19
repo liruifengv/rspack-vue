@@ -1,6 +1,6 @@
 # rspack-vue
 
-<image src="https://images.sayhub.me/blog/rspack-vue/rspack.png" width="300" height="250">
+<image src="https://bucket.liruifengv.com/rspack-vue/rspack.png" width="300" height="250">
 
 An example of a vue project using [Rspack](https://github.com/web-infra-dev/rspack).
 
